@@ -1,6 +1,6 @@
 # Привет! 👋 Я — Cropsii
 
-Добро пожаловать в мой GitHub профиль! Здесь я создаю учебные и хобби-проекты, развивая навыки в разработке UI/UX и изучая React Native. Моя цель — делать **маленькие, но полезные приложения** для повседневной жизни, чтобы они приносили пользу, улучшали качество жизни и были приятны в использовании.
+Добро пожаловать в мой GitHub профиль!
 
 ---
 
@@ -22,22 +22,13 @@
   ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
   ![SunVox](https://img.shields.io/badge/-SunVox-9D3F9D?style=flat-square)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
 ---
-
 ### 📈 Статистика GitHub
-
-[![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=radical)](https://github.com/Cropsii)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&layout=compact&theme=radical)](https://github.com/Cropsii)
-
----
-
-### 🌐 Контакты (скрыты для будущего использования)
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your-username) -->
-
+  
+  [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=radical)](https://github.com/Cropsii)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&layout=compact&theme=radical)](https://github.com/Cropsii)
+  
 --- 
 
-Спасибо, что заглянули! Буду рад вашим вопросам и замечаниям по проектам 🙂
+Спасибо, что заглянули!
