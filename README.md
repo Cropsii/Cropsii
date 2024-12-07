@@ -25,9 +25,9 @@
 ---
 ### 📈 Статистика GitHub
   
-  [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=cobalt)](https://github.com/Cropsii)
+  [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=merko)](https://github.com/Cropsii)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&theme=cobalt)](https://github.com/Cropsii)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&theme=merko)](https://github.com/Cropsii)
   
 --- 
 
