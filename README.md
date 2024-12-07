@@ -1,4 +1,4 @@
-# Привет! 👋 Я — Cropsii
+# Привет! 👋 Я — Cropsi
 
 Добро пожаловать в мой GitHub профиль!
 
@@ -19,15 +19,15 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 - **Инструменты и окружение:**  
-  ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
+  ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=orange)
   ![SunVox](https://img.shields.io/badge/-SunVox-9D3F9D?style=flat-square)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ---
 ### 📈 Статистика GitHub
   
-  [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=radical)](https://github.com/Cropsii)
+  [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=transparent)](https://github.com/Cropsii)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&layout=compact&theme=radical)](https://github.com/Cropsii)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cropsii&layout=compact&theme=transparent)](https://github.com/Cropsii)
   
 --- 
 
