@@ -28,8 +28,6 @@
 
 ### 📈 Статистика GitHub
 
-![Animated GIF](https://example.com/your-animated-gif.gif)
-
 [![Cropsii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cropsii&show_icons=true&theme=github_dark)](https://github.com/Cropsii)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cropsii&show_icons=true&locale=en&layout=compact&theme=github_dark)](https://github.com/Cropsii)
